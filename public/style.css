@@ -1,0 +1,31 @@
+body {
+    color: bisque;
+    background: url(https://i.pinimg.com/originals/da/06/07/da06070e6610eed218c124b384d80587.jpg);
+    background-size: cover;
+  }
+.text {
+width: 50vw;
+}
+/* h1, p {
+  text-align: center;
+} */
+img{
+  margin: 30px;
+  width:250px;
+  height:250px;
+}
+div{
+  display: flex;
+  flex-wrap: wrap;
+}
+.photo{
+  margin: 0 auto;
+}
+a {
+  border-radius: 10px;
+  padding:10px;
+  margin: 30px;
+  text-decoration: none;
+  background-color: gray;
+  color: white;
+}
