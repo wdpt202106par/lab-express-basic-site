@@ -6,9 +6,9 @@ body {
 .text {
 width: 50vw;
 }
-h1, p {
+/* h1, p {
   text-align: center;
-}
+} */
 img{
   margin: 30px;
   width:250px;
